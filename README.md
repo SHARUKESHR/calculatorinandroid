@@ -23,8 +23,8 @@ Android Studio(Min. required Artic Fox)
 ## PROGRAM:
 ```
 Program to print the text create your own content providers to get contacts details.
-Developed by: Akshaay Vardhan S
-Registeration Number : 212224220007
+Developed by: Sharukesh R
+Registeration Number : 212223220106
 ```
 ### MainActivity.java
 ```
